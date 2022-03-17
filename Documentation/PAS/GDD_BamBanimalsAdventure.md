@@ -1,17 +1,17 @@
-# **Game Name Here**
+# **Bam! Banimal! Adventure**
 
 ## _Game Design Document_
 
 ---
 
-##### **Copyright notice / author information / boring legal stuff nobody likes**
+##### **Copyright notice / Andrea Serrano Diego, Ariadne Alvarez Reyes and Andrea Yela González / boring legal stuff nobody likes**
 
 ##
 ## _Index_
 
 ---
 
-- [**Game Name Here**](#game-name-here)
+- [**Bam! Banimal! Adventure**](#game-name-here)
   - [_Game Design Document_](#game-design-document)
         - [**Copyright notice / author information / boring legal stuff nobody likes**](#copyright-notice--author-information--boring-legal-stuff-nobody-likes)
   - [_Index_](#index)
@@ -86,7 +86,7 @@ _(Note : These sections can safely be skipped if they&#39;re not relevant, or yo
 
 ### **Themes**
 
-1. Forest
+1. Tropical Island
     1. Mood
         1. Dark, calm, foreboding
   2. Objects
