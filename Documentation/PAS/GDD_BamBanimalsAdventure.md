@@ -145,10 +145,12 @@ _(example)_
 1. BasePlayer
     1. PlayerMain: Luhzio
     <p> This is the main character, the only Bam Banimal that isn't affected by the virus. </p>
-    <img src = "...BamBanimalsAdventure/Documentation/PAS/Imagenes">
-    2. PlayerUnlockable
-2. BaseEnemy
-    1. EnemyWolf
+    <center><img  src = "https://github.com/AndyDiego13/BamBanimalsAdventure/blob/main/Documentation/PAS/Imagenes/Luhzio.png?raw=true"></center>
+    
+2. Enemies
+    1. Potatzio
+    <p> This is a hybrid of a fox and a rabbit, you can collect it after you beat level 1 </p>
+    <center><img src = "https://github.com/AndyDiego13/BamBanimalsAdventure/blob/main/Documentation/PAS/Imagenes/Potatzio.png?raw=true"></center>
     2. EnemyGoblin
     3. EnemyGuard (may drop key)
     4. EnemyGiantRat
