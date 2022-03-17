@@ -150,11 +150,16 @@ _(example)_
 2. Enemies
     1. Potatzio
     <p> This is a hybrid of a fox and a rabbit, you can collect it after you beat level 1 </p>
-    <center><img src = "https://github.com/AndyDiego13/BamBanimalsAdventure/blob/main/Documentation/PAS/Imagenes/Potatzio.png?raw=true"></center>
-    2. EnemyGoblin
-    3. EnemyGuard (may drop key)
-    4. EnemyGiantRat
-    5. EnemyPrisoner
+     <center><img src = "https://github.com/AndyDiego13/BamBanimalsAdventure/blob/main/Documentation/PAS/Imagenes/PotatzioVirus.png?raw=true" title = "Potatzio while infected" ></center>
+    <center><img src = "https://github.com/AndyDiego13/BamBanimalsAdventure/blob/main/Documentation/PAS/Imagenes/Potatzio.png?raw=true" title = "Potatzio when you beat level 1" ></center>
+    2. Maparillo
+    <p> This is a polar bear and a racoon hybrid, you can collect it after you beat level 2</p>
+    3. Kiwano
+    <p> A jellyfish and shark hybrid, you can collect it after you beat level 3 </p>
+    4. Tutancamon
+    <p> A toucan and monkey hybrid, , you can collect it after you beat level 4 </p>
+    5. Akevia
+    <p> The final boss and leader of the island, an axolotl and quetzal hybrid. </p>
 3. BaseObject
     1. ObjectRock (pick-up-able, throwable)
     2. ObjectChest (pick-up-able, throwable, spits gold coins with key)
