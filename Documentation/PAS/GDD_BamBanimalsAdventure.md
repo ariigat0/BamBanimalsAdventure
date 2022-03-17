@@ -143,7 +143,9 @@ _(example)_
 ### **Derived Classes / Component Compositions**
 
 1. BasePlayer
-    1. PlayerMain
+    1. PlayerMain: Luhzio
+    <p> This is the main character, the only Bam Banimal that isn't affected by the virus. </p>
+    <img src = "...BamBanimalsAdventure/Documentation/PAS/Imagenes">
     2. PlayerUnlockable
 2. BaseEnemy
     1. EnemyWolf
